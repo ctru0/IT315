@@ -1,0 +1,10 @@
+{
+  "MealPlanning":
+  [
+    {"MealName":"Baked Potato","MealCalories":"161 cal","MealTime":"1 hr","MealIngredients":"-Russet Potatoes \n-Olive Oil \n-SeaSalt","MealImage":"IMG URL","RecipeSite":"https://www.loveandlemons.com/baked-potato/"},
+    {"MealName":"Chicken Salad","MealCalories":"302 cal","MealTime":"37 mins","MealIngredients":"-Chicken \n-Romaine Lettuce \n-Red Onion \n-Bell Pepper \n-Avocado \n-Dressing","MealImage":"IMG URL","RecipeSite":"https://www.spendwithpennies.com/grilled-chicken-salad/"},
+    {"MealName":"Tomato Soup","MealCalories":"74 cal","MealTime":"30 mins","MealIngredients":"-Crushed Tomatoes \n-Unsalted Butter \n-Chicken Stock \n-Yellow Onions \n-Garlic Cloves \n-Heavy Cream","MealImage":"IMG URL","RecipeSite":"https://natashaskitchen.com/tomato-soup-recipe/"},
+    {"MealName":"Avocado Toast with egg","MealCalories":"271 cal","MealTime":"10 mins","MealIngredients":"-Bread \n-Avocado \n-Eggs \n-Butter \n-Seasonings","MealImage":"IMG URL","RecipeSite":"https://feelgoodfoodie.net/recipe/avocado-toast-with-egg-3-ways/"}
+  ],
+  "Status":"OK"
+}
